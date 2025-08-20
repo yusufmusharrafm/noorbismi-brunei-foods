@@ -83,7 +83,7 @@ const Footer = () => {
               </p>
               <div className="pt-2">
                 <p className="font-body text-white/80 text-sm">
-                  WhatsApp: +673-XXXXXXX
+                  WhatsApp: +673-2651687
                 </p>
                 <p className="font-body text-white/80 text-sm">
                   Email: info@noorbismi.com
