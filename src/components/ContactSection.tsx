@@ -42,7 +42,7 @@ const ContactSection = () => {
                   WhatsApp
                 </h3>
                 <p className="font-body text-foreground/70">
-                  +673-XXXXXXX
+                  +6732651687
                 </p>
                 <p className="font-body text-sm text-foreground/50 mt-1">
                   Available for business inquiries
